@@ -121,3 +121,11 @@ F:\Projects\DotNetCore\DatingApp\datingapp\obj\Debug\netcoreapp3.1\DatingApp.dll
 F:\Projects\DotNetCore\DatingApp\datingapp\obj\Debug\netcoreapp3.1\DatingApp.pdb
 F:\Projects\DotNetCore\DatingApp\datingapp\obj\Debug\netcoreapp3.1\DatingApp.genruntimeconfig.cache
 F:\Projects\DotNetCore\DatingApp\datingapp\bin\Debug\netcoreapp3.1\package-lock.json
+F:\Projects\DotNetCore\DatingApp\datingapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Projects\DotNetCore\DatingApp\datingapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\DotNetCore\DatingApp\datingapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\DotNetCore\DatingApp\datingapp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Projects\DotNetCore\DatingApp\datingapp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Projects\DotNetCore\DatingApp\datingapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\DotNetCore\DatingApp\datingapp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\DotNetCore\DatingApp\datingapp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
