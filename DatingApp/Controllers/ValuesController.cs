@@ -26,6 +26,7 @@ public ValuesController(DataContext context)
 }
 
         [HttpGet]
+        [AllowAnonymous]
         public async Task<IActionResult> Getvalues()
         {
             var list=await _context.Values.ToListAsync();
