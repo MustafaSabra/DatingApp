@@ -13,6 +13,7 @@ namespace DatingApp.Data {
 
         }
         public async Task<User> Login (string username, string passowrd) {
+             //throw new Exception("Nope");
             var user=await _context.Users.FirstOrDefaultAsync(m=>m.Username==username);
             if(user==null)
             return null;
